@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbayR
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on GOOGLE MOTHERFAKA
+- 💞️ I’m looking to collaborate on GOOGLE 
 - 📫 How to reach me never try to reach me
 
 <!---
