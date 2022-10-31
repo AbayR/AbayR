@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @AbayR
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on GOOGLE 
-- 📫 How to reach me never try to reach me
+My name is Razakov Abay.
+
+I am a student of Nazarbayev University, currently majoring in Mathematics and with a deep interest in Computer Science. 
+
+Current stack: 
+----Python
+----Java
+----PHP
+
 
 <!---
 AbayR/AbayR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
