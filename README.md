@@ -1,4 +1,4 @@
-My name is Razakov Abay.
+My name is Abay.
 
 I am a student of Nazarbayev University, currently majoring in Mathematics and with a deep interest in Computer Science. 
 
